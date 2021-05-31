@@ -1,0 +1,13 @@
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.exe
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.deps.json
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.runtimeconfig.json
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.runtimeconfig.dev.json
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.dll
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\bin\Debug\netcoreapp3.1\ConsoleApp17-2.pdb
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.csprojAssemblyReference.cache
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.AssemblyInfoInputs.cache
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.AssemblyInfo.cs
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.csproj.CoreCompileInputs.cache
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.dll
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.pdb
+D:\EFSOL\Projects\С# Essential\Lesson 13-18\ConsoleApp13-18\ConsoleApp17-2\obj\Debug\netcoreapp3.1\ConsoleApp17-2.genruntimeconfig.cache
